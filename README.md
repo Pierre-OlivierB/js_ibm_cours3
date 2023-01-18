@@ -3,3 +3,7 @@
 td on place
 
 ## Imc
+
+IMC = P x T x T
+P=>kg
+T=>m
